@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\maria\Desktop\Lab2\bin\Debug\Lab2.exe
+C:\Users\maria\Desktop\Lab2\bin\Debug\Lab2.pdb
+C:\Users\maria\Desktop\Lab2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\Lab2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.exe
+C:\Users\maria\Desktop\Lab2\obj\Debug\Lab2.pdb
